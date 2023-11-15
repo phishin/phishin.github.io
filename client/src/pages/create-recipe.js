@@ -17,10 +17,6 @@ export const CreateRecipe = () => {
     userOwner: userID,
   });
 
-
-  git clone --single-branch --branch development https://github.com/username/project.git
-
-
       const navigate = useNavigate();
 
   const handleChange = (event) => {
