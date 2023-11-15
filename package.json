@@ -1,5 +1,5 @@
 {
-  "homepage": "https://phishin.github.io/recipe-app",
+  "homepage": "https://<phishin>.github.io/<recipe-app>",
   "dependencies": {
     "bcrypt": "^5.1.1"
   },
