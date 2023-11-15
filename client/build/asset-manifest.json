@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/phishin.github.io/static/css/main.ea20bb1f.css",
+    "main.js": "/phishin.github.io/static/js/main.718b550e.js",
+    "index.html": "/phishin.github.io/index.html",
+    "main.ea20bb1f.css.map": "/phishin.github.io/static/css/main.ea20bb1f.css.map",
+    "main.718b550e.js.map": "/phishin.github.io/static/js/main.718b550e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea20bb1f.css",
+    "static/js/main.718b550e.js"
+  ]
+}
